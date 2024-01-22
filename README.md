@@ -1,13 +1,16 @@
 Group Information
-Project Manager  : Ahmadi Irmansyah Lubis, S.Kom., M.Kom.
+
+Project Manager  : Ahmadi Irmansyah Lubis, S.Kom., M.Kom.<br>
 Leader Team      : Muhammad Irfan Musthofa (4342301060)
-Member of Team   :
-Said Agung Dwi Yanto (4342301055)
-Salzi Astaudi (4342301051)
-Ahmad Saif Al Muflihin (4342301053)
-Iqbal Mulia Nugraha (4342301056)
-BAHASA INDONESIA :
-Gambaran umum :
+
+Member of Team   :<br>
+Said Agung Dwi Yanto (4342301055)<br>
+Salzi Astaudi (4342301051)<br>
+Ahmad Saif Al Muflihin (4342301053)<br>
+Iqbal Mulia Nugraha (4342301056)<br>
+
+BAHASA INDONESIA :<br>
+Gambaran umum :<br>
 Aplikasi ini merupakan hasil implementasi pembelajaran kami pada semester 1, kami secara khusus diminta untuk membuat aplikasi “Jaringan Keamanan Lingkungan”. Di antara fitur-fiturnya adalah:
 
      1. Pengguna dapat membuat laporan kejadian
@@ -21,17 +24,23 @@ Aplikasi ini merupakan hasil implementasi pembelajaran kami pada semester 1, kam
 
 instalasi :
 
-Kloning repo atau Download
-Ekstrak file “Zamara.zip'
-Impor 'Zamara.sql' ke phpmyadmin
-Hubungkan koneksi ke database dengan mengganti koneksi pada file 'connection.php'
-Jika menggunakan hosting jangan lupa ganti domain pada file .htaccess
-Setelah instalasi selesai, silahkan login melalui akun berikut: Admin (Username : Admin , Password : Admin)
-Setelah login ke akun admin, Anda dapat membuat berbagai akun dengan peran berbeda-beda.
+1.Kloning repo atau Download
+
+2.Ekstrak file “Zamara.zip'
+
+3.Impor 'Zamara.sql' ke phpmyadmin
+
+4.Hubungkan koneksi ke database dengan mengganti koneksi pada file 'connection.php'
+
+5.Jika menggunakan hosting jangan lupa ganti domain pada file .htaccess
+
+6.Setelah instalasi selesai, silahkan login melalui akun berikut: Admin (Username : Admin , Password : Admin)
+
+7.Setelah login ke akun admin, Anda dapat membuat berbagai akun dengan peran berbeda-beda.
 
 
-ENGLISH LANGUAGE :
-General Description :
+ENGLISH LANGUAGE :<br>
+General Description :<br>
 This application is the result of the implementation of our learning in the first semester, we were specifically asked to create a "Neighborhood Safety Network" application. Among the features are:
 
     1. Users can create incident reports
@@ -45,10 +54,16 @@ This application is the result of the implementation of our learning in the firs
 
 installation :
 
-Clone repo or download
-Extract the file "Zamara.zip'
-Import 'Zamara.sql' into phpmyadmin
-Connect the connection to the database by replacing the connection in the 'connection.php' file
-If you use hosting, don't forget to replace the domain in the .htaccess file
-After the installation is complete, please log in via the following account: Admin (Username : Admin , Password : Admin)
-After logging into the admin account, you can create various accounts with different roles.
+1.Clone repo or download
+
+2.Extract the file "Zamara.zip'
+
+3.Import 'Zamara.sql' into phpmyadmin
+
+4.Connect the connection to the database by replacing the connection in the 'connection.php' file
+
+5.If you use hosting, don't forget to replace the domain in the .htaccess file
+
+6.After the installation is complete, please log in via the following account: Admin (Username : Admin , Password : Admin)
+
+7.After logging into the admin account, you can create various accounts with different roles.
